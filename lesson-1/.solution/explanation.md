@@ -10,6 +10,7 @@ In terms of syntax, the important things to notice are within the following segm
 Key takeaways
 - you write code within the curly brackets
 - you put semicolons after expressions
+- methods are "invoked" or ran through the `.``name of thing here``(parameters inside of parentheses)``;`
 
 The rest of the program you can think of as template code. We'll explain what everything means in due time. 
 
